@@ -17,7 +17,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.github.SWRevo:GDriveSK:1.1.1'
+  implementation 'com.github.SWRevo:GDriveSK:1.1.2'
 }
 ```
 
