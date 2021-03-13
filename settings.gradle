@@ -1,0 +1,3 @@
+include ':gdriverest'
+include ':app'
+rootProject.name = "GDriveSK"
